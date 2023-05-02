@@ -1,0 +1,12 @@
+/mymodel
+/preprocessed2.csv
+/preprocessedTest.csv
+/sample_submission.csv
+/test.csv
+/train.csv
+/word2vec.csv
+/submission.csv
+/word2vec.model
+/word2vec.model.syn1neg.npy
+/word2vec.model.wv.vectors.npy
+/tokenized_data

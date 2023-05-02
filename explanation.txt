@@ -1,0 +1,4 @@
+Used word2vec embeddings for after combining description title and bullets into 1 column
+cleaned data by using nltk stop words and removing punctuations
+averaged out the vectors for each word in every row to get row vectors
+built a DNN to predict output.
